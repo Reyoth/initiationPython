@@ -29,4 +29,4 @@ for lettre in texte :
     else :
         nbConsonnes +=1
 
-print("j'ai", nbVoyelles, "voyelles dans", texte)
+print("j'ai", nbConsonnes, "consonnes dans", texte)

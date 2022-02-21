@@ -1,6 +1,6 @@
 # variables
 var1 = 10 # int
-var2 = 4 # float
+var2 = 4.5 # float
 var3 = "bonjour" # string
 var4 = True # boolean
 var5 = ["bonjour", 5 , 3.5] # list 
