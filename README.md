@@ -22,7 +22,7 @@ Ou alors : https://www.codingame.com/profile/0504ed3543dc814c87bf2a9dfd30d3e5868
 
 **Interpreteur en ligne :**
 
-- Repl>it : https://repl.it/
+- Online Python : https://www.online-python.com/
 
 **Interface de développment "visuel" :**
 
@@ -41,7 +41,6 @@ Ou alors : https://www.codingame.com/profile/0504ed3543dc814c87bf2a9dfd30d3e5868
 - codecademy : https://www.codecademy.com/
 - Labex : https://labex.io
 - W3Schools : https://www.w3schools.com/python/
-- Infinity:  http://www.evoliris-infinity.be/
 
 ## 4. Centres de formation :computer:
 
