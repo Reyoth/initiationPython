@@ -1,6 +1,6 @@
 # Initiation à la programmation avec Python  :snake:
 
-support de cours pour l'initiation à la programmation avec Python
+Support de cours pour l'initiation à la programmation avec Python
 
 Vocabulaire : https://github.com/Reyoth/initiationPython/blob/master/Vocabulaire.pdf
 
@@ -13,7 +13,7 @@ Ou alors : https://www.codingame.com/profile/0504ed3543dc814c87bf2a9dfd30d3e5868
 
 - Scratch : https://scratch.mit.edu/
 - Fiche de présentation de scratch : https://voyageursdunumerique.org/fiche/outil-guide-de-presentation-de-scratch/
-- fiches d'activités des Voyageurs du numerique : https://voyageursdunumerique.org/la-bibliotheque/thematiques/programmation-informatique-et-nouveautes-technologiques/
+- Fiches d'activités des Voyageurs du numerique : https://voyageursdunumerique.org/la-bibliotheque/thematiques/programmation-informatique-et-nouveautes-technologiques/
 
 ## 2. Installer Python sur son oridinateur :package:
 
